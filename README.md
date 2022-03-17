@@ -66,11 +66,19 @@
 
 ## PHP
 
+- [RedBeanPHP  Welcome](https://www.redbeanphp.com/index.php)
 - [dannyvankootenAltoRouter PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.](https://github.com/dannyvankooten/AltoRouter)
 
 ## Javascript
 
 - [ htmx - high power tools for html](https://htmx.org/)
+- [SimpleLightbox](https://dbrekalo.github.io/simpleLightbox/)
+- [imgixluminous A simple, lightweight, no-dependencies JavaScript lightbox](https://github.com/imgix/luminous) + [imgixdrift Easily add zoom on hover functionality to your site's images. Lightweight, no-dependency JavaScript.](https://github.com/imgix/drift)
+- [The lightest Lightbox ever made  basicLightbox](https://basiclightbox.electerious.com/)
+- [A touchable pure Javascript lightbox](https://biati-digital.github.io/glightbox/#examples)
+- [fslightbox.js  Vanilla JS Lightbox](https://fslightbox.com/javascript)
+- [Swup](https://swup.js.org/)
+- 
 
 ## CSS
 
