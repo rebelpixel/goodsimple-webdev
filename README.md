@@ -86,6 +86,37 @@
 
 - [Simple CSS loaders](https://codepen.io/jenning/pen/YzNmzaV)
 
+## Animations
+
+- [Animate.css | A cross-browser library of CSS animations.](https://animate.style/)
+
+- [Vivify - CSS Animation Library](http://vivify.mkcreative.cz/)
+
+- [Hover.css - A collection of CSS3 powered hover effects](https://ianlunn.github.io/Hover/)
+
+- [Infinite: Useful CSS Animations](https://tilomitra.github.io/infinite/)
+
+- [Micron.JS - a μ microInteraction Library](https://webkul.github.io/micron/)
+
+- [Animista - CSS Animations on Demand](https://animista.net/)
+  [anater/tachyons-animate: Single purpose classes to help you orchestrate CSS animations](https://github.com/anater/tachyons-animate)
+
+- [All Animation CSS](https://all-animation.github.io/)
+
+- [Magic Animations CSS3](https://www.minimamente.com/project/magic/)
+
+- [CSShake](https://elrumordelaluz.github.io/csshake/)
+
+- [Obnoxious.css](https://tholman.com/obnoxious/)
+
+- [erictreacymimic.css Everyone else is doing it!](https://github.com/erictreacy/mimic.css)
+
+- [Pure CSS One page vertical navigation](https://codepen.io/hrtzt/pen/pgXMYb)
+
+- [Page Transition with Loader](https://codepen.io/johnheiner/pen/JdRybK)
+
+- [Reveal content animation (and menu)](https://codepen.io/tobiasglaus/pen/oZJdZY)
+
 ## Credits
 
 - [sindresorhusawesome 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
